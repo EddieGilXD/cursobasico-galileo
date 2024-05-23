@@ -3,3 +3,6 @@ Segund linea
 Hoy estoy aprendiendo el Git diff
 Esta es mi segunda modificacion para el git diff
 Estoy escribiendo en la linea 5
+-----------------------------------------
+Esto es solo un ejercicio
+Estas es una nueva linea
